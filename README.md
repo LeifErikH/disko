@@ -37,3 +37,7 @@ When one path sits inside another, it is counted once. Sizes come from `du`, so 
 
 The provider glyph outlines and the notch geometry come from
 [Codenotch](https://github.com/vinzdg/codenotch) by Vinz, MIT licensed.
+
+## License
+
+MIT. See [LICENSE](LICENSE). The Codenotch-derived parts keep their own MIT notice in [LICENSE-codenotch](LICENSE-codenotch).
